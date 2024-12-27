@@ -5,7 +5,7 @@ I'm passionate about DevOps and web development, bringing both interests togethe
 
 # Currently
 
-I am currently pursuing Advanced Diploma in Computer Engineering at [Sheridan Collge](https://www.sheridancollege.ca/) with goal to become a Cloud/Devops Engineer within 3 years of college.
+I’m pursuing an Advanced Diploma in Computer Engineering at  [Sheridan Collge](https://www.sheridancollege.ca/), and gaining hands-on experience in full-stack development, cloud deployment, and CI/CD pipelines.
 
 # Some history
 - When I was in 3rd grade, I used to go to my friend's house to play Subway Surfer on their tablet.

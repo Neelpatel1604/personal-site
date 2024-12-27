@@ -25,7 +25,7 @@ const Index = () => (
           or you can check out my {' '}
           <Link to="/resume">resume</Link>, {' '}
           <Link to="/projects">projects</Link>, {' '}
-          view <Link to="/stats">site statistics</Link>, {' '}
+          explore <Link to="/services">services</Link>, {' '}
           or <Link to="/contact">contact</Link> me.
         </p>
         <div className="logo-container" style={{ textAlign: 'left', marginBottom: '20px' }}>
