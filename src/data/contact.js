@@ -17,7 +17,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'https://x.com/neelkumar1610',
+    link: 'https://x.com/neelbuilds',
     label: 'Twitter',
     icon: faTwitter,
   },
