@@ -1,11 +1,11 @@
 
 # Intro
 
-I'm passionate about DevOps and web development, bringing both interests together through hands-on projects that deepen my technical expertise. Currently an Advanced Diploma student in Computer Engineering at [Sheridan Collge](https://www.sheridancollege.ca/), I've worked on projects that involve building full-stack applications, deploying on cloud platforms, and implementing CI/CD pipelines. These experiences have fueled my enthusiasm for bridging development and operations to create efficient, scalable solutions.
+I'm passionate about DevOps and web development, bringing both interests together through hands-on projects that deepen my technical expertise. Currently an Advanced Diploma student in Computer Engineering at [Sheridan College](https://www.sheridancollege.ca/), I've worked on projects that involve building full-stack applications, deploying on cloud platforms, and implementing CI/CD pipelines. These experiences have fueled my enthusiasm for bridging development and operations to create efficient, scalable solutions.
 
 # Currently
 
-I’m pursuing an Advanced Diploma in Computer Engineering at  [Sheridan Collge](https://www.sheridancollege.ca/), and gaining hands-on experience in full-stack development, cloud deployment, and CI/CD pipelines.
+I’m pursuing an Advanced Diploma in Computer Engineering, while serving as a [Perplexity](https://perplexity.ai/) Campus Strategist at [Sheridan Collge](https://www.sheridancollege.ca/). I’m gaining hands-on experience in full-stack development and DevOps, including cloud deployment and CI/CD pipelines.
 
 # Some history
 - When I was in 3rd grade, I used to go to my friend's house to play Subway Surfer on their tablet.
