@@ -1,5 +1,16 @@
 const positions = [
   {
+    company: 'Perplexity',
+    position: 'Campus Strategist',
+    link: 'https://perplexity.ai/',
+    daterange: 'January 2025 - Present',
+    points: [
+      'Initiating efforts to promote Perplexity AI on campus, focusing on building awareness and engagement.',
+      'Beginning to develop marketing strategies tailored to the student community.',
+      'Collaborating with peers and exploring opportunities for campus events and outreach initiatives.',
+    ],
+  },
+  {
     company: 'Future Way Institute Of Multimedia',
     position: 'Software Technician',
     link: 'https://www.futurewayinstitute.com/',
