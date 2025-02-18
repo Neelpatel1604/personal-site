@@ -9,12 +9,32 @@ const skills = [
   },
   {
     title: 'DSA',
+    competency: 3,
+    category: ['Software Engineering'],
+  },
+  {
+    title: 'Object Oriented Programming',
     competency: 4,
-    category: ['Data Engineering'],
+    category: ['Software Engineering'],
+  },
+  {
+    title: 'Java',
+    competency: 3,
+    category: ['Languages'],
+  },
+  {
+    title: 'Tesorflow',
+    competency: 3,
+    category: ['Machine Learning'],
+  },
+  {
+    title: 'FastAPI',
+    competency: 3,
+    category: ['Web Development'],
   },
   {
     title: 'Amazon Web Services',
-    competency: 2,
+    competency: 4,
     category: ['Deployment', 'Tools'],
   },
   {
@@ -24,7 +44,7 @@ const skills = [
   },
   {
     title: 'HTML + CSS',
-    competency: 2,
+    competency: 3,
     category: ['Web Development', 'Languages'],
   },
   {
@@ -33,9 +53,59 @@ const skills = [
     category: ['Web Development', 'Languages', 'Machine Learning'],
   },
   {
+    title: 'Snowfalke',
+    competency: 3,
+    category: ['Databases'],
+  },
+  {
+    title: 'ClickHouse',
+    competency: 3,
+    category: ['Databases'],
+  },
+  {
+    title: 'SQL Server',
+    competency: 3,
+    category: ['Databases'],
+  },
+  {
+    title: 'Oracle',
+    competency: 3,
+    category: ['Databases'],
+  },
+  {
+    title: 'RDS',
+    competency: 3,
+    category: ['Databases'],
+  },
+  {
+    title: 'DynamoDB',
+    competency: 3,
+    category: ['Databases'],
+  },
+  {
     title: 'React JS',
     competency: 3,
     category: ['Web Development', 'Languages'],
+  },
+  {
+    title: 'TypeScript',
+    competency: 3,
+    category: ['Web Development', 'Languages'],
+  },
+  {
+    title: 'JavaScript',
+    competency: 3,
+    category: ['Web Development', 'Languages'],
+  },
+  {
+    title: 'Tailwind CSS',
+    competency: 3,
+    category: ['Web Development'],
+  },
+  {
+    title: 'Docker',
+    competency: 3,
+    category: ['Deployment', 'Tools'],
   },
 
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
