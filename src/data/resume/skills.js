@@ -44,7 +44,7 @@ const skills = [
   },
   {
     title: 'HTML + CSS',
-    competency: 3,
+    competency: 5,
     category: ['Web Development', 'Languages'],
   },
   {
@@ -104,6 +104,26 @@ const skills = [
   },
   {
     title: 'Docker',
+    competency: 2,
+    category: ['Deployment', 'Tools'],
+  },
+  {
+    title: 'Netlify',
+    competency: 3,
+    category: ['Deployment', 'Tools'],
+  },
+  {
+    title: 'Cloudflare',
+    competency: 3,
+    category: ['Deployment', 'Tools'],
+  },
+  {
+    title: 'Amplify',
+    competency: 3,
+    category: ['Deployment', 'Tools'],
+  },
+  {
+    title: 'EC2',
     competency: 3,
     category: ['Deployment', 'Tools'],
   },
