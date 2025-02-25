@@ -13,6 +13,18 @@ const data = [
     categories: ['Full-Stack'],
   },
   {
+    title: 'SherLife: One stop solution for all sheridan students',
+    subtitle: 'Empowering Sheridan Students with a Comprehensive Platform for Campus Services',
+    image: '/images/projects/Sherlife-photo.png',
+    link: 'https://blog.neelbuilds.com/sherlife',
+    startDate: '2025-01-18',
+    endDate: 'Present',
+    desc:
+    'SherLife is a comprehensive platform for Sheridan students, providing easy access to campus services and resources. '
+    + 'It offer a marketplace for students to buy and sell items, a confessions page for sharing experiences.',
+    categories: ['Full-Stack'],
+  },
+  {
     title: 'Bus Crowd Detection System',
     subtitle: 'Building a Real-Time Bus Crowd Detection System with YOLOv4-Tiny',
     image: '/images/projects/CrowdDetection.jpg',
