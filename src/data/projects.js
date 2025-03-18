@@ -12,7 +12,7 @@ const data = [
     + "It simulates order placement using WebSockets when inventory is low, enabling efficient supply chain analysis "
     + "without executing actual transactions.",
     categories: ["Machine Learning"]
-  }
+  },
   {
     title: 'SherLife: One stop solution for all sheridan students',
     subtitle: 'Empowering Sheridan Students with a Comprehensive Platform for Campus Services',
