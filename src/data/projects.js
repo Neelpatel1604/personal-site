@@ -1,17 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: "Inventory Management: ",
-    subtitle: "AI-Powered Stock Monitoring and WebSocket-Based Order Simulation",
-    image: "/images/projects/inventory_management_image.jpg",
-    link: "https://youtu.be/qiGpGm3XUYU?si=GZT97oRcjkywu_tF",
-    startDate: "2025-02-26",
-    endDate: "2025-02-26",
+    title: 'Inventory Management: ',
+    subtitle: 'AI-Powered Stock Monitoring and WebSocket-Based Order Simulation',
+    image: '/images/projects/inventory_management_image.jpg',
+    link: 'https://youtu.be/qiGpGm3XUYU?si=GZT97oRcjkywu_tF',
+    startDate: '2025-02-26',
+    endDate: '2025-02-26',
     desc: 
-    "An AI-driven inventory management system leveraging machine learning to monitor stock levels in real time. "
-    + "It simulates order placement using WebSockets when inventory is low, enabling efficient supply chain analysis "
-    + "without executing actual transactions.",
-    categories: ["Machine Learning"]
+    'An AI-driven inventory management system leveraging machine learning to monitor stock levels in real time. '
+    + 'It simulates order placement using WebSockets when inventory is low, enabling efficient supply chain analysis '
+    + 'without executing actual transactions.',
+    categories: ['Machine Learning']
   },
   {
     title: 'SherLife: One stop solution for all sheridan students',
