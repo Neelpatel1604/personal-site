@@ -7,11 +7,11 @@ const data = [
     link: 'https://youtu.be/qiGpGm3XUYU?si=GZT97oRcjkywu_tF',
     startDate: '2025-02-26',
     endDate: '2025-02-26',
-    desc: 
+    desc:
     'An AI-driven inventory management system leveraging machine learning to monitor stock levels in real time. '
     + 'It simulates order placement using WebSockets when inventory is low, enabling efficient supply chain analysis '
     + 'without executing actual transactions.',
-    categories: ['Machine Learning']
+    categories: ['Machine Learning'],
   },
   {
     title: 'SherLife: One stop solution for all sheridan students',
