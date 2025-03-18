@@ -1,17 +1,18 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Urban Global: Solution for Sustainable Brampton Transit',
-    subtitle: 'Empowering Sustainable Commuting in Brampton Through Multi-Modal Transit Options',
-    image: '/images/projects/UrbanGlobal.png',
-    link: 'https://blog.neelbuilds.com/urban-flow-solution-for-sustainable-brampton-transit',
-    startDate: '2024-11-09',
-    endDate: '2024-11-10',
-    desc:
-    'Urban Global is a multi-modal trip planner created in a hackathon to promote sustainable commuting in Brampton. '
-    + 'It provides an easy-to-use platform for exploring eco-friendly travel options, supporting Brampton Transit\'s goals.',
-    categories: ['Full-Stack'],
-  },
+    title: "Inventory Management: ",
+    subtitle: "AI-Powered Stock Monitoring and WebSocket-Based Order Simulation",
+    image: "/images/projects/inventory_management_image.jpg",
+    link: "https://youtu.be/qiGpGm3XUYU?si=GZT97oRcjkywu_tF",
+    startDate: "2025-02-26",
+    endDate: "2025-02-26",
+    desc: 
+    "An AI-driven inventory management system leveraging machine learning to monitor stock levels in real time. "
+    + "It simulates order placement using WebSockets when inventory is low, enabling efficient supply chain analysis "
+    + "without executing actual transactions.",
+    categories: ["Machine Learning"]
+  }
   {
     title: 'SherLife: One stop solution for all sheridan students',
     subtitle: 'Empowering Sheridan Students with a Comprehensive Platform for Campus Services',
@@ -22,6 +23,18 @@ const data = [
     desc:
     'SherLife is a comprehensive platform for Sheridan students, providing easy access to campus services and resources. '
     + 'It offer a marketplace for students to buy and sell items, a confessions page for sharing experiences.',
+    categories: ['Full-Stack'],
+  },
+  {
+    title: 'Urban Global: Solution for Sustainable Brampton Transit',
+    subtitle: 'Empowering Sustainable Commuting in Brampton Through Multi-Modal Transit Options',
+    image: '/images/projects/UrbanGlobal.png',
+    link: 'https://blog.neelbuilds.com/urban-flow-solution-for-sustainable-brampton-transit',
+    startDate: '2024-11-09',
+    endDate: '2024-11-10',
+    desc:
+    'Urban Global is a multi-modal trip planner created in a hackathon to promote sustainable commuting in Brampton. '
+    + 'It provides an easy-to-use platform for exploring eco-friendly travel options, supporting Brampton Transit\'s goals.',
     categories: ['Full-Stack'],
   },
   {
