@@ -11,6 +11,7 @@ const Categories = {
   CLOUD: 'Cloud & DevOps',
   FULLSTACK: 'Full-Stack',
   ML: 'Machine Learning',
+  HD: 'Hardware',
 };
 
 const Projects = () => {

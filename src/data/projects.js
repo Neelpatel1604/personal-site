@@ -1,7 +1,7 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Inventory Management: ',
+    title: 'Inventory Management ',
     subtitle: 'AI-Powered Stock Monitoring and WebSocket-Based Order Simulation',
     image: '/images/projects/inventory_management_image.jpg',
     link: 'https://youtu.be/qiGpGm3XUYU?si=GZT97oRcjkywu_tF',
@@ -12,6 +12,18 @@ const data = [
     + 'It simulates order placement using WebSockets when inventory is low, enabling efficient supply chain analysis '
     + 'without executing actual transactions.',
     categories: ['Machine Learning'],
+  },
+  {
+    title: 'Hardware Projects Series',
+    subtitle: 'Building Hardware Projects with Neel Patel',
+    image: '/images/projects/HardwareSeries.jpg',
+    link: 'https://blog.neelbuilds.com/series/hardwareproject',
+    startDate: '2024-11-04',
+    endDate: 'Present',
+    desc:
+    'This blog series covers a range of hardware projects, including PCB design, Circuit assebling,'
+    + 'working with embedded systems, and more. ',
+    categories: ['Hardware'],
   },
   {
     title: 'SherLife: One stop solution for all sheridan students',
