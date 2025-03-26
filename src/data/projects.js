@@ -1,6 +1,19 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'DeepFace',
+    subtitle: 'Protecting Video Streams from Deepfake Manipulation',
+    image: '/images/projects/deepface_landibg.png',
+    link: 'https://deepfacegenai.netlify.app/',
+    startDate: '2025-03-21',
+    endDate: '2025-03-23',
+    desc:
+    'DeepFace protects video streams from deepfake manipulation by adding subtle,'
+    + 'AI-resistant distortions. It integrates with OBS for seamless,'
+    + 'secure broadcasting while maintaining video quality.',
+    categories: ['Machine Learning'],
+  },
+  {
     title: 'Inventory Management ',
     subtitle: 'AI-Powered Stock Monitoring and WebSocket-Based Order Simulation',
     image: '/images/projects/inventory_management_image.jpg',
