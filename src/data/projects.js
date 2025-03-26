@@ -3,7 +3,7 @@ const data = [
   {
     title: 'DeepFace',
     subtitle: 'Protecting Video Streams from Deepfake Manipulation',
-    image: '/images/projects/deepface_landibg.png',
+    image: '/images/projects/Deepface_landing.png',
     link: 'https://deepfacegenai.netlify.app/',
     startDate: '2025-03-21',
     endDate: '2025-03-23',
