@@ -2,9 +2,9 @@ const data = [
   {
     title: 'K8SUG- Kubernetes User Group-10th',
     images: [
-      '/images/events/K8SUG-1/k1.jpeg',
+      '/images/events/K8SUG-1/k1-1.jpeg',
       '/images/events/K8SUG-1/k1-2.jpeg',
-      '/images/events/K8SUG-1/k1-3.jpeg',
+      '/images/events/K8SUG-1/k1-3.webp',
     ],
     date: '2024-05-30',
   },
@@ -35,7 +35,7 @@ const data = [
   {
     title: 'InnocaS.E Next Gen Case Study Challenge',
     images: [
-      '/images/events/InnocaS.E/Entreprenuership.jpg',
+      '/images/events/InnocaS.E/Entreprenuership-1.jpg',
       '/images/events/InnocaS.E/Entreprenuershipcertificate.jpg',
       '/images/events/InnocaS.E/Entreprenuership-2.png',
       '/images/events/InnocaS.E/Entreprenuership-3.png',
