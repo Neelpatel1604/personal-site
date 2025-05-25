@@ -1,12 +1,23 @@
 const positions = [
   {
+    company: 'EDGE AI Innovation Hub',
+    position: 'Software Developer Intern',
+    link: 'https://edgeaihub.com/',
+    daterange: 'May 2025 - Present',
+    points: [
+      'Developing product using NextJS and leveraging AWS to deploy a scalable and secure infrastructure.',
+      'Building platform which reduced eleminate vector database and offer 40% higher semantic accuracy.',
+      'Collaborating with team members to design system architecture and implement new features.',
+    ],
+  },
+  {
     company: 'Perplexity',
     position: 'Campus Strategist',
     link: 'https://perplexity.ai/',
-    daterange: 'January 2025 - Present',
+    daterange: 'January 2025 - April 2025',
     points: [
       'Initiating efforts to promote Perplexity AI on campus, focusing on building awareness and engagement.',
-      'Beginning to develop marketing strategies tailored to the student community.',
+      'Took a workshop in hackathon hackville 2025 to promote Perplexity.',
       'Collaborating with peers and exploring opportunities for campus events and outreach initiatives.',
     ],
   },

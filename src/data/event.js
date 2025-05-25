@@ -35,7 +35,7 @@ const data = [
   {
     title: 'InnocaS.E Next Gen Case Study Challenge',
     images: [
-      '/images/events/InnocaS.E/Entreprenuership-1.jpg',
+      '/images/events/InnocaS.E/Enterprenuership-1.jpg',
       '/images/events/InnocaS.E/Entreprenuershipcertificate.jpg',
       '/images/events/InnocaS.E/Entreprenuership-2.png',
       '/images/events/InnocaS.E/Entreprenuership-3.png',
