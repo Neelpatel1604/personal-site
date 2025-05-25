@@ -1,8 +1,8 @@
 const positions = [
   {
-    company: 'EDGE AI Innovation Hub',
+    company: 'EDGE AI Innovation',
     position: 'Software Developer Intern',
-    link: 'https://edgeaihub.com/',
+    link: 'https://www.edgeaiinnovations.com/',
     daterange: 'May 2025 - Present',
     points: [
       'Developing product using NextJS and leveraging AWS to deploy a scalable and secure infrastructure.',
