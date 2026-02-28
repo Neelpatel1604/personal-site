@@ -28,7 +28,15 @@ const Index = () => (
           <Link to="/services">services</Link>, {' '}
           or <Link to="/contact">contact</Link> me.
         </p>
-        <div className="logo-container" style={{ display: 'flex', flexWrap: 'wrap', gap: '20px', marginBottom: '20px' }}>
+        <div
+          className="logo-container"
+          style={{
+            display: 'flex',
+            flexWrap: 'wrap',
+            gap: '20px',
+            marginBottom: '20px',
+          }}
+        >
           <a href="https://www.credly.com/badges/a1a0c75d-b2bb-4f82-b97e-a67af59589b5/linked_in?t=shv1tc" target="_blank" rel="noopener noreferrer">
             <img
               src="/images/cloudpractitionerlogo.png"
