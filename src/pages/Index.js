@@ -28,11 +28,18 @@ const Index = () => (
           <Link to="/services">services</Link>, {' '}
           or <Link to="/contact">contact</Link> me.
         </p>
-        <div className="logo-container" style={{ textAlign: 'left', marginBottom: '20px' }}>
+        <div className="logo-container" style={{ display: 'flex', flexWrap: 'wrap', gap: '20px', marginBottom: '20px' }}>
           <a href="https://www.credly.com/badges/a1a0c75d-b2bb-4f82-b97e-a67af59589b5/linked_in?t=shv1tc" target="_blank" rel="noopener noreferrer">
             <img
               src="/images/cloudpractitionerlogo.png"
               alt="Cloud Practitioner Certification"
+              style={{ width: '200px', height: 'auto' }}
+            />
+          </a>
+          <a href="https://www.credly.com/earner/earned/badge/55209ee6-f002-4d61-a842-a6ef44e9d411" target="_blank" rel="noopener noreferrer">
+            <img
+              src="/images/cloudclub.png"
+              alt="AWS Cloud Club Captain"
               style={{ width: '200px', height: 'auto' }}
             />
           </a>
@@ -45,6 +52,14 @@ const Index = () => (
             rel="noopener noreferrer"
           >
             View my Cloud Practitioner Certification
+          </a>
+          {' · '}
+          <a
+            href="https://www.credly.com/earner/earned/badge/55209ee6-f002-4d61-a842-a6ef44e9d411"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            View my AWS Cloud Club Captain badge
           </a>
         </p>
         <p>Source available <a href="https://github.com/Neelpatel1604/personal-site">here</a>.</p>
