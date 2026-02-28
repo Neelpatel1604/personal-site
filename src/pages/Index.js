@@ -37,6 +37,15 @@ const Index = () => (
             />
           </a>
         </div>
+        <div className="logo-container" style={{ textAlign: 'left', marginBottom: '20px' }}>
+          <a href="https://www.credly.com/earner/earned/badge/55209ee6-f002-4d61-a842-a6ef44e9d411" target="_blank" rel="noopener noreferrer">
+            <img
+              src="/images/cloudclub.png"
+              alt="AWS Cloud Club Captain"
+              style={{ width: '200px', height: 'auto' }}
+            />
+          </a>
+        </div>
 
         <p>
           <a
