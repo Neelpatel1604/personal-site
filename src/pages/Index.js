@@ -46,7 +46,7 @@ const Index = () => (
           </a>
           <a href="https://www.credly.com/earner/earned/badge/55209ee6-f002-4d61-a842-a6ef44e9d411" target="_blank" rel="noopener noreferrer">
             <img
-              src="/images/cloudclub.png"
+              src="/images/cloud-club.png"
               alt="AWS Cloud Club Captain"
               style={{ width: '200px', height: 'auto' }}
             />
@@ -59,7 +59,7 @@ const Index = () => (
             target="_blank"
             rel="noopener noreferrer"
           >
-            View my Cloud Practitioner Certification
+            Cloud Practitioner Certification
           </a>
           {' · '}
           <a
@@ -67,7 +67,7 @@ const Index = () => (
             target="_blank"
             rel="noopener noreferrer"
           >
-            View my AWS Cloud Club Captain badge
+            AWS Cloud Club Captain badge
           </a>
         </p>
         <p>Source available <a href="https://github.com/Neelpatel1604/personal-site">here</a>.</p>
