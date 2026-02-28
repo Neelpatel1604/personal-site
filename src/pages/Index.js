@@ -33,7 +33,7 @@ const Index = () => (
           style={{
             display: 'flex',
             flexWrap: 'wrap',
-            gap: '20px',
+            gap: '40px',
             marginBottom: '20px',
           }}
         >
